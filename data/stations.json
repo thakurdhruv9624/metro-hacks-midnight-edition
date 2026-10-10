@@ -1,0 +1,136 @@
+{
+  "city": "Gandhinagar",
+  "state": "Gujarat",
+  "stations": [
+    {
+      "id": "gift",
+      "name": "GIFT City",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.1615,
+      "lng": 72.6832,
+      "bays": 4,
+      "zone": "office"
+    },
+    {
+      "id": "infocity",
+      "name": "Infocity",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.1965,
+      "lng": 72.6358,
+      "bays": 5,
+      "zone": "office"
+    },
+    {
+      "id": "kudasan",
+      "name": "Kudasan",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.185,
+      "lng": 72.636,
+      "bays": 3,
+      "zone": "mixed"
+    },
+    {
+      "id": "raysan",
+      "name": "Raysan",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.175,
+      "lng": 72.655,
+      "bays": 2,
+      "zone": "campus"
+    },
+    {
+      "id": "gnlu",
+      "name": "GNLU",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.157,
+      "lng": 72.66,
+      "bays": 2,
+      "zone": "campus"
+    },
+    {
+      "id": "sec16",
+      "name": "Sector 16",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.2234,
+      "lng": 72.6501,
+      "bays": 3,
+      "zone": "civic"
+    },
+    {
+      "id": "sec10",
+      "name": "Sector 10",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.2156,
+      "lng": 72.6369,
+      "bays": 4,
+      "zone": "civic"
+    },
+    {
+      "id": "pathikashram",
+      "name": "Pathikashram",
+      "line": "Ahmedabad–Gandhinagar",
+      "lat": 23.232,
+      "lng": 72.655,
+      "bays": 3,
+      "zone": "interchange"
+    }
+  ],
+  "drop_zones": [
+    {
+      "id": "gift-towers",
+      "name": "GIFT One towers",
+      "lat": 23.1588,
+      "lng": 72.6841,
+      "aliases": ["gift one", "gift towers", "sebi", "nse gift"]
+    },
+    {
+      "id": "infocity-offices",
+      "name": "Infocity offices",
+      "lat": 23.1988,
+      "lng": 72.6372,
+      "aliases": ["tcs infocity", "infocity park", "cyber city"]
+    },
+    {
+      "id": "ch-road",
+      "name": "CH Road",
+      "lat": 23.2168,
+      "lng": 72.6412,
+      "aliases": ["ch0", "ch road", "sector 21 market"]
+    },
+    {
+      "id": "sg-edge",
+      "name": "SG Highway edge",
+      "lat": 23.1892,
+      "lng": 72.6285,
+      "aliases": ["sg highway", "sarkhej gandhinagar highway"]
+    },
+    {
+      "id": "pdpu",
+      "name": "PDEU campus",
+      "lat": 23.1554,
+      "lng": 72.6648,
+      "aliases": ["pdpu", "pdeu", "pandit deendayal"]
+    },
+    {
+      "id": "kudasan-housing",
+      "name": "Kudasan housing",
+      "lat": 23.1822,
+      "lng": 72.6298,
+      "aliases": ["kudasan flats", "home kudasan"]
+    },
+    {
+      "id": "sec8-residences",
+      "name": "Sector 8 residences",
+      "lat": 23.2255,
+      "lng": 72.642,
+      "aliases": ["sector 8", "sec 8"]
+    },
+    {
+      "id": "pathika-bus",
+      "name": "Pathikashram bus stand",
+      "lat": 23.2335,
+      "lng": 72.6568,
+      "aliases": ["bus stand", "gsrtc", "pathikashram bus"]
+    }
+  ]
+}
